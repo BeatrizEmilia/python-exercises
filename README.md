@@ -44,6 +44,14 @@ mathematical expressions
 - Variables
 - Arithmetic operations
 - Formatted output
+## Program:
+## Reads the price of a product and shows its new price with a 5% discount.
+## Concepts practiced:
+- User input
+- Variables
+- Arithmetic operations
+- Formatted output
+
 01 soma
 02 mensagem nome
 03 análise de texto
