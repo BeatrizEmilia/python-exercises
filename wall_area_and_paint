@@ -1,0 +1,22 @@
+# Paint Calculator / Calculadora de Tinta
+# This program reads the width and height of a wall (in meters),
+# calculates its area, and the amount of paint needed to cover it.
+# Each liter of paint covers 2 square meters.
+# / Este programa lê a largura e altura de uma parede (em metros),
+# calcula sua área e a quantidade de tinta necessária para pintá-la.
+# Cada litro de tinta cobre 2 metros quadrados.
+
+# User input / Entrada do usuário
+width = float(input('Width of the wall (meters) / Largura da parede (m): '))
+height = float(input('Height of the wall (meters) / Altura da parede (m): '))
+
+# Area calculation / Cálculo da área
+area = width * height
+
+# Paint calculation / Cálculo da tinta necessária
+paint_needed = area / 2  # 1 liter covers 2 m²
+
+# Display results / Exibindo resultados
+print(f'The wall has dimensions {width}x{height} and an area of {area:.2f} m² / '
+      f'Sua parede tem dimensão {width}x{height} e área de {area:.2f} m²')
+print(f'Paint needed: {paint_needed:.2f} liters / Tinta necessária: {paint_needed:.2f} litros')
