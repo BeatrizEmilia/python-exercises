@@ -37,3 +37,12 @@ mathematical expressions
 - loops (for)
 - arithmetic operations
 - formatted output
+
+01 soma
+02 mensagem nome
+03 análise de texto
+04 operações matemáticas
+05 dobro triplo raiz
+06 conversão metros
+07 conversão km
+08 tabuada
