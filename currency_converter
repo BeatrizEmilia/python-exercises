@@ -1,0 +1,26 @@
+# Conversor de Moedas / Currency Converter
+# Este programa lê quanto dinheiro uma pessoa tem na carteira
+# e mostra quanto ela pode comprar em dólar, euro, libra e iene.
+# / This program reads how much money a person has in their wallet
+# and shows how much they can buy in USD, EUR, GBP, and JPY.
+
+# Entrada do usuário / User input
+wallet_amount = float(input('Quanto dinheiro você tem na carteira? / How much money do you have in your wallet? R$ '))
+
+# Cotação atual / Current exchange rates (example)
+usd_rate = 5.28   # 1 USD = 5.28 BRL
+eur_rate = 6.09   # 1 EUR = 6.09 BRL
+gbp_rate = 7.00   # 1 GBP = 7.00 BRL
+jpy_rate = 30.01  # 1 JPY = 30.01 BRL
+
+# Cálculo da conversão / Currency conversion calculations
+usd = wallet_amount / usd_rate
+eur = wallet_amount / eur_rate
+gbp = wallet_amount / gbp_rate
+jpy = wallet_amount / jpy_rate
+
+# Exibindo os resultados / Displaying results
+print(f'Com R$ {wallet_amount:.2f}, você pode comprar US$ {usd:.2f} / With R$ {wallet_amount:.2f}, you can buy US$ {usd:.2f}')
+print(f'Com R$ {wallet_amount:.2f}, você pode comprar € {eur:.2f} / With R$ {wallet_amount:.2f}, you can buy € {eur:.2f}')
+print(f'Com R$ {wallet_amount:.2f}, você pode comprar £ {gbp:.2f} / With R$ {wallet_amount:.2f}, you can buy £ {gbp:.2f}')
+print(f'Com R$ {wallet_amount:.2f}, você pode comprar ¥ {jpy:.2f} / With R$ {wallet_amount:.2f}, you can buy ¥ {jpy:.2f}')
