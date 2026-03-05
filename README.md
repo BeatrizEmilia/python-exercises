@@ -37,7 +37,13 @@ mathematical expressions
 - loops (for)
 - arithmetic operations
 - formatted output
-
+## Program:
+## Calculates the area of a wall and the amount of paint needed, considering that 1 liter covers 2 m².
+## Concepts practiced
+- User input
+- Variables
+- Arithmetic operations
+- Formatted output
 01 soma
 02 mensagem nome
 03 análise de texto
