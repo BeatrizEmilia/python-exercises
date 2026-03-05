@@ -1,62 +1,110 @@
-# python-exercises
+## Python Practice Programs
+This repository contains 12 Python programs created to practice fundamental programming concepts, including user input, arithmetic operations, loops, string methods, and formatted output. Programs are organized from easiest to most complex.
 
-Repository created to store my Python exercises while learning programming and data analysis.
-
-## Topics practiced
+## 01_topics_practiced.py
+## Program:
+Lists the programming topics practiced in this course.
+## Concepts practiced:
 - Programming logic
 - Data input and output
 - Basic calculations
-## Math Operations with Two Numbers
-Python program that reads two numbers and performs different arithmetic operations.
-Operations included:
-- Sum
-- Multiplication
-- Division
-- Integer division
-- Power
-## Program that reads a value entered by the user and analyzes its characteristics, such as whether it is numeric, alphabetic, uppercase, lowercase, or contains only spaces.
+
+## 02_analyze_input.py
+## Program:
+Reads a value entered by the user and analyzes its characteristics, such as whether it is numeric, alphabetic, uppercase, lowercase, or contains only spaces.
 ## Concepts practiced:
 - User input
 - String methods
 - Data type checking
-## Program that reads a number and displays its double, triple, and square root.
-## Concepts practiced:
-arithmetic operations
-variables
-mathematical expressions
-## Program that reads a value in meters and converts it to centimeters and millimeters.
-## Concepts practiced:
-- user input
-- variables
-- arithmetic operations
-- unit conversion
-- formatted output
-## Program that reads an integer and displays its multiplication table from 1 to 10.
-## Concepts practiced:
-- user input
-- loops (for)
-- arithmetic operations
-- formatted output
+
+## 03_double_triple_sqrt.py
 ## Program:
-## Calculates the area of a wall and the amount of paint needed, considering that 1 liter covers 2 m².
-## Concepts practiced
+Reads a number and displays its double, triple, and square root.
+- Concepts practiced:
+- Arithmetic operations
+- Variables
+- Mathematical expressions
+
+## 04_meters_to_cm_mm.py
+## Program:
+Reads a value in meters and converts it to centimeters and millimeters.
+- Concepts practiced:
 - User input
 - Variables
 - Arithmetic operations
+- Unit conversion
 - Formatted output
+
+## 05_paint_calculator.py
 ## Program:
-## Reads the price of a product and shows its new price with a 5% discount.
+Calculates the area of a wall and the amount of paint needed, considering that 1 liter of paint covers 2 square meters.
 ## Concepts practiced:
 - User input
 - Variables
 - Arithmetic operations
 - Formatted output
 
-01 soma
-02 mensagem nome
-03 análise de texto
-04 operações matemáticas
-05 dobro triplo raiz
-06 conversão metros
-07 conversão km
-08 tabuada
+## 06_multiplication_table.py
+Program:
+-Reads an integer and displays its multiplication table from 1 to 10.
+- Concepts practiced:
+- User input
+- Loops (for)
+- Arithmetic operations
+- Formatted output
+
+## 07_math_operations.py
+Program:
+Reads two numbers and performs different arithmetic operations: sum, multiplication, division, integer division, and power.
+- Concepts practiced:
+- User input
+- Variables
+- Arithmetic operations
+- Formatted output
+
+## 08_currency_converter.py
+## Program:
+Reads how much money a person has in their wallet and calculates how much they can buy in different currencies: USD, EUR, GBP, and JPY.
+## Concepts practiced:
+-User input
+- Variables
+- Arithmetic operations
+- Formatted output
+- Working with multiple currencies
+- Bilingual code documentation
+
+## 09_discount_calculator.py
+## Program:
+Reads the price of a product and shows its new price with a 5% discount.
+## Concepts practiced:
+- User input
+- Variables
+- Arithmetic operations
+- Formatted output
+
+## 10_wall_paint_calculator.py
+## Program:
+Calculates the area of a wall and the amount of paint needed, considering that 1 liter covers 2 square meters.
+## Concepts practiced:
+- User input
+- Variables
+- Arithmetic operations
+- Formatted output
+
+## 11_discount_calculator.py
+## Program:
+Reads the price of a product and shows its new price with a 5% discount.
+## Concepts practiced:
+- User input
+- Variables
+- Arithmetic operations
+- Formatted output
+
+## 12_salary_increase.py
+## Program:
+Reads an employee's salary and calculates the new salary with a 15% increase.
+## Concepts practiced:
+- User input
+- Variables
+- Arithmetic operations
+- Formatted output
