@@ -15,6 +15,6 @@ Operations included:
 - Integer division
 - Power
 ## Concepts practiced:
-- user input
-- string methods
-- data type checking
+- User input
+- String methods
+- Data type checking
