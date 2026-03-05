@@ -30,5 +30,10 @@ mathematical expressions
 - variables
 - arithmetic operations
 - unit conversion
-
-formatted output
+- formatted output
+## Program that reads an integer and displays its multiplication table from 1 to 10.
+## Concepts practiced:
+- user input
+- loops (for)
+- arithmetic operations
+- formatted output
