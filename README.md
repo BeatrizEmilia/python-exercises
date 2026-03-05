@@ -117,3 +117,12 @@ Calculates the total cost of renting a car based on the number of days rented an
 - Variables
 - Arithmetic operations
 - Formatted output
+
+## 15_predecessor_successor.py
+## Program:
+Reads an integer and displays its predecessor and successor.
+## Concepts practiced:
+- User input
+- Variables
+- Arithmetic operations
+- Formatted output
