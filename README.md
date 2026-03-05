@@ -6,3 +6,5 @@ Repository created to store my Python exercises while learning programming and d
 - Programming logic
 - Data input and output
 - Basic calculations
+- Sum two numbers
+- 
