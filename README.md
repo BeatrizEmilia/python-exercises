@@ -61,7 +61,7 @@ Program:
 - Arithmetic operations
 - Formatted output
 
-## 07_math_operations.py
+## 07_math_operations_two_numbers.py
 Program:
 Reads two numbers and performs different arithmetic operations: sum, multiplication, division, integer division, and power.
 - Concepts practiced:
