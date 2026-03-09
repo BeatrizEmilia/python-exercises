@@ -157,4 +157,24 @@ Create a program that reads any angle and displays the sine, cosine, and tangent
 - Trigonometric functions
 - Formatted output
 
+## 19_random_student.py
+## Problem
+A teacher wants to randomly choose one of four students to erase the board.
+Create a program that reads the names of four students and randomly selects one.
+## Concepts practiced
+- User input
+- Lists
+- Random module
+- Variables
+- Formatted output
 
+## 20_presentation_order.py
+## Problem
+A teacher wants to randomly determine the presentation order of student groups.
+Create a program that reads the names of four groups and displays them in a random order.
+## Concepts practiced
+-User input
+- Lists
+- Random module
+- List indexing
+- Formatted output
