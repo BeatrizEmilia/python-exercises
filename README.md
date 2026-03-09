@@ -9,7 +9,7 @@ Lists the programming topics practiced in this course.
 - Data input and output
 - Basic calculations
 
-## 00_welcome_user.py
+## 01_welcome_user.py
 ## Program:
 Type a name and the screen will display a message.
 ## Concepts practiced:
