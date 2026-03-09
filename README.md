@@ -178,3 +178,13 @@ Create a program that reads the names of four groups and displays them in a rand
 - Random module
 - List indexing
 - Formatted output
+
+## 21_play_mp3.py
+## Problem
+Create a Python program that opens and plays an MP3 audio file.
+## Concepts practiced
+- External libraries
+- Audio playback
+- File handling
+- Program execution flow
+
