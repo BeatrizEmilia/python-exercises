@@ -1,7 +1,7 @@
 ## Python Practice Programs
 This repository contains 12 Python programs created to practice fundamental programming concepts, including user input, arithmetic operations, loops, string methods, and formatted output. Programs are organized from easiest to most complex.
 
-## 01_topics_practiced.py
+## Topics_Practiced.py
 ## Program:
 Lists the programming topics practiced in this course.
 ## Concepts practiced:
