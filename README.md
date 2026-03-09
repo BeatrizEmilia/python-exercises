@@ -90,16 +90,7 @@ Reads the price of a product and shows its new price with a 5% discount.
 - Arithmetic operations
 - Formatted output
 
-## 10_discount_calculator.py
-## Program:
-Reads the price of a product and shows its new price with a 5% discount.
-## Concepts practiced:
-- User input
-- Variables
-- Arithmetic operations
-- Formatted output
-
-## 12_salary_increase.py
+## 10_salary_increase.py
 ## Program:
 Reads an employee's salary and calculates the new salary with a 15% increase.
 ## Concepts practiced:
