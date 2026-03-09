@@ -137,8 +137,7 @@ Reads a real number from the user and displays only its integer part.
 - Math functions
 - Formatted output
 
-17_triangle_hypotenuse.py
-
+## 17_triangle_hypotenuse.py
 ## Program:
 Reads the length of the opposite leg and the adjacent leg of a right triangle and calculates the hypotenuse using the Pythagorean theorem.
 ## Concepts practiced:
@@ -147,3 +146,15 @@ Reads the length of the opposite leg and the adjacent leg of a right triangle an
 - Arithmetic operations
 - Math library
 - Formatted output
+
+## 18_trigonometric_functions.py
+## Problem
+Create a program that reads any angle and displays the sine, cosine, and tangent of that angle.
+## Concepts practiced
+- User input
+- Variables
+- Math library
+- Trigonometric functions
+- Formatted output
+
+
