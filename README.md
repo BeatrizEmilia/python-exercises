@@ -43,7 +43,7 @@ Reads a value in meters and converts it to centimeters and millimeters.
 - Unit conversion
 - Formatted output
 
-## 05_paint_calculator.py
+## 05_wall_area_and_paint
 ## Program:
 Calculates the area of a wall and the amount of paint needed, considering that 1 liter of paint covers 2 square meters.
 ## Concepts practiced:
