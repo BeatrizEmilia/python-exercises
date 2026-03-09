@@ -136,3 +136,14 @@ Reads a real number from the user and displays only its integer part.
 - Type conversion
 - Math functions
 - Formatted output
+
+17_triangle_hypotenuse.py
+
+## Program:
+Reads the length of the opposite leg and the adjacent leg of a right triangle and calculates the hypotenuse using the Pythagorean theorem.
+## Concepts practiced:
+- User input
+- Variables
+- Arithmetic operations
+- Math library
+- Formatted output
