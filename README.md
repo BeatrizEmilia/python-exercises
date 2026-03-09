@@ -25,7 +25,7 @@ Reads a value entered by the user and analyzes its characteristics, such as whet
 - String methods
 - Data type checking
 
-## 03_double_triple_sqrt.py
+## 03_double_triple_square_root.py
 ## Program:
 Reads a number and displays its double, triple, and square root.
 - Concepts practiced:
