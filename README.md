@@ -117,7 +117,7 @@ Reads an integer and displays its predecessor and successor.
 - Arithmetic operations
 - Formatted output
 
-## 16_integer_part.py
+## 13_integer_part.py
 ## Program:
 Reads a real number from the user and displays only its integer part.
 ## Concepts practiced:
