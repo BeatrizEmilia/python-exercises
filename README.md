@@ -9,6 +9,14 @@ Lists the programming topics practiced in this course.
 - Data input and output
 - Basic calculations
 
+## 00_welcome_user.py
+## Program:
+Type a name and the screen will display a message.
+## Concepts practiced:
+- Programming logic
+- start of learning
+- first program
+
 ## 02_analyze_input.py
 ## Program:
 Reads a value entered by the user and analyzes its characteristics, such as whether it is numeric, alphabetic, uppercase, lowercase, or contains only spaces.
