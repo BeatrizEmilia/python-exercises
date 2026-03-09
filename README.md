@@ -17,7 +17,7 @@ Type a name and the screen will display a message.
 - start of learning
 - first program
 
-## 02_analyze_input.py
+## 02_input_data_type_analysis.py
 ## Program:
 Reads a value entered by the user and analyzes its characteristics, such as whether it is numeric, alphabetic, uppercase, lowercase, or contains only spaces.
 ## Concepts practiced:
