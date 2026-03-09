@@ -126,3 +126,13 @@ Reads an integer and displays its predecessor and successor.
 - Variables
 - Arithmetic operations
 - Formatted output
+
+## 16_integer_part.py
+## Program:
+Reads a real number from the user and displays only its integer part.
+## Concepts practiced:
+- User input
+- Variables
+- Type conversion
+- Math functions
+- Formatted output
