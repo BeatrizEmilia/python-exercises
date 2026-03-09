@@ -90,16 +90,7 @@ Reads the price of a product and shows its new price with a 5% discount.
 - Arithmetic operations
 - Formatted output
 
-## 10_wall_paint_calculator.py
-## Program:
-Calculates the area of a wall and the amount of paint needed, considering that 1 liter covers 2 square meters.
-## Concepts practiced:
-- User input
-- Variables
-- Arithmetic operations
-- Formatted output
-
-## 11_discount_calculator.py
+## 10_discount_calculator.py
 ## Program:
 Reads the price of a product and shows its new price with a 5% discount.
 ## Concepts practiced:
