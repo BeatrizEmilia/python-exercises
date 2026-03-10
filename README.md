@@ -146,7 +146,7 @@ Reads the length of the opposite leg and the adjacent leg of a right triangle an
 - Math library
 - Formatted output
 
-## 18_trigonometric_functions.py
+## 16_trigonometric_functions.py
 ## Problem
 Create a program that reads any angle and displays the sine, cosine, and tangent of that angle.
 ## Concepts practiced
@@ -156,7 +156,7 @@ Create a program that reads any angle and displays the sine, cosine, and tangent
 - Trigonometric functions
 - Formatted output
 
-## 19_random_student.py
+## 17_random_student.py
 ## Problem
 A teacher wants to randomly choose one of four students to erase the board.
 Create a program that reads the names of four students and randomly selects one.
@@ -167,7 +167,7 @@ Create a program that reads the names of four students and randomly selects one.
 - Variables
 - Formatted output
 
-## 20_presentation_order.py
+## 18_presentation_order.py
 ## Problem
 A teacher wants to randomly determine the presentation order of student groups.
 Create a program that reads the names of four groups and displays them in a random order.
@@ -178,7 +178,7 @@ Create a program that reads the names of four groups and displays them in a rand
 - List indexing
 - Formatted output
 
-## 21_play_mp3.py
+## 19_play_mp3.py
 ## Problem
 Create a Python program that opens and plays an MP3 audio file.
 ## Concepts practiced
