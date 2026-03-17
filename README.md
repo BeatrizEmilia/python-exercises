@@ -233,3 +233,17 @@ Create a program that reads a person's full name and checks whether it contains 
 - Substring search
 - Boolean expressions
 - Formatted output
+
+## 24_letter_a_analysis.py
+Create a program that reads a sentence and shows:
+How many times the letter "A" appears
+The position of the first occurrence
+The position of the last occurrence
+## Concepts praticed
+- User input
+- Strings
+- String methods
+- String search
+- Counting occurrences
+- Formatted output
+
