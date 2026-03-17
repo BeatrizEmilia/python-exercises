@@ -212,3 +212,13 @@ Input: 1834
 - Modulus operator
 - Formatted output
 
+## 22_city_name_check.py
+## Problem
+Create a program that reads the name of a city and checks whether it starts with "SANTO".
+## Concepts practiced
+- User input
+- Strings
+- String slicing
+- String methods
+- Comparison operators
+- Boolean output
