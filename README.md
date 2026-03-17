@@ -181,4 +181,34 @@ Create a program that reads the names of four groups and displays them in a rand
 ## 19_play_mp3.py
 ## Problem
 Create a Python program that opens and plays an MP3 audio file.
-## Concepts pract
+## Concepts practiced
+- External libraries
+- Audio playback
+- File handling
+- Program execution flow
+
+## 20_name_analysis.py
+## Program:  
+Reads a full name and performs several analyses such as uppercase, lowercase, and character counting.
+## Concepts practiced:
+- User input
+- Strings
+- String methods
+- String manipulation
+- Formatted output
+
+## Note: This exercise reflects my learning process at the time and was intentionally kept as originally written.
+
+## 21_digit_separation.py
+## Program:
+Create a program that reads a number from 0 to 9999 and displays each digit separately:
+Example:
+Input: 1834
+## Concepts practiced
+- User input
+- Variables
+- Arithmetic operations
+- Integer division
+- Modulus operator
+- Formatted output
+
