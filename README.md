@@ -222,3 +222,14 @@ Create a program that reads the name of a city and checks whether it starts with
 - String methods
 - Comparison operators
 - Boolean output
+
+## 23_name_contains_silva.py
+## Problem
+Create a program that reads a person's full name and checks whether it contains the word "Silva".
+## Concepts practiced
+- User input
+- Strings
+- String methods
+- Substring search
+- Boolean expressions
+- Formatted output
