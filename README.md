@@ -247,3 +247,14 @@ The position of the last occurrence
 - Counting occurrences
 - Formatted output
 
+## 25_first_last_name.py
+## Problem
+Create a program that reads a person's full name and displays the first and last name separately.
+## Concepts practiced
+- User input
+- Strings
+- String methods
+- Lists
+- List indexing
+- Formatted output
+
